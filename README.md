@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Master's student of SITE in Data Science program of Computational Neuroscience track at Kazakh-British Technical University. I graduated with a BSc in Software Engineering at Astana IT University.
+I am a Master's student in Data Science at Kazakh-British Technical University. I completed with a BSc in Software Engineering at Astana IT University.
 
 <!--
 **Alar-q/Alar-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
